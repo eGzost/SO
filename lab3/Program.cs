@@ -1,5 +1,5 @@
-﻿using OS.Lab3;
-using OS.Lab3.Abstractions;
+﻿using OS.Common;
+using OS.Common.Abstractions;
 
 Console.WriteLine("Patisserie producer-consumer model");
 

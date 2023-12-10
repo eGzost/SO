@@ -1,4 +1,4 @@
-namespace OS.Lab3.Abstractions;
+namespace OS.Common.Abstractions;
 
 public interface IBus<MessageT>
 {

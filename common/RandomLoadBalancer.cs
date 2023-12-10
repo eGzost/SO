@@ -1,7 +1,7 @@
-namespace OS.Lab3;
+namespace OS.Common;
 
 using System.Diagnostics;
-using OS.Lab3.Abstractions;
+using OS.Common.Abstractions;
 
 public class RandomLoadBalancer<MessageT> : IBus<MessageT>
 {
